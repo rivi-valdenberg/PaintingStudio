@@ -82,8 +82,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Models\\Item.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:15:52.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:15:52.082Z"
             },
             {
               "$type": "Document",
@@ -95,8 +94,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:16:33.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:16:33.638Z"
             },
             {
               "$type": "Document",
@@ -108,8 +106,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:12:44.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:12:44.422Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Services\\AuthService.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAA2wD8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:59.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:17:59.781Z"
             },
             {
               "$type": "Document",
@@ -134,8 +130,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Services\\ItemService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:35.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:17:35.302Z"
             },
             {
               "$type": "Document",
@@ -147,8 +142,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Services\\S3Service.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAuwEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:20.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:17:20.256Z"
             },
             {
               "$type": "Document",
@@ -160,8 +154,7 @@
               "RelativeToolTip": "PaintingStudio.API\\WeatherForecast.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:07:15.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:07:15.587Z"
             },
             {
               "$type": "Document",
@@ -173,8 +166,7 @@
               "RelativeToolTip": "PaintingStudio.API\\appsettings.json",
               "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T12:19:47.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:19:47.694Z"
             },
             {
               "$type": "Document",
@@ -184,7 +176,7 @@
               "RelativeDocumentMoniker": "PaintingStudio.API\\Data\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "PaintingStudio.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwB0AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T12:18:35.058Z",
               "EditorCaption": ""
@@ -199,8 +191,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Models\\Instruction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:16:18.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:16:18.369Z"
             },
             {
               "$type": "Document",
@@ -212,8 +203,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:48:45.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:48:45.089Z"
             },
             {
               "$type": "Document",
@@ -225,8 +215,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Controllers\\ItemsController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAkwF8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:10.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:14:10.351Z"
             },
             {
               "$type": "Document",
@@ -238,8 +227,7 @@
               "RelativeToolTip": "PaintingStudio.API\\Controllers\\InstructionsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:26.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:14:26.027Z"
             },
             {
               "$type": "Document",
@@ -251,21 +239,19 @@
               "RelativeToolTip": "PaintingStudio.API\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:46.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:14:46.19Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "PaintingStudio.API",
+              "Title": "PaintingStudio.API.csproj",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
               "RelativeDocumentMoniker": "PaintingStudio.API\\PaintingStudio.API.csproj",
               "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
               "RelativeToolTip": "PaintingStudio.API\\PaintingStudio.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-21T12:13:03.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:13:03.519Z"
             }
           ]
         }
