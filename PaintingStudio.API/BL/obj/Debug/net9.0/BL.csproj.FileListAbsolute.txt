@@ -1,0 +1,6 @@
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.AssemblyInfo.cs
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\PaintingStudio\PaintingStudio.API\BL\obj\Debug\net9.0\BL.sourcelink.json

@@ -3,64 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\services\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\services\\s3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\services\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\services\\imageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\models\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\models\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\instructionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\instructionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\paintingstudio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\paintingstudio.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\entities\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\dtos\\imagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\interfacesservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\interfacesservices\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\interfacesservices\\interfacesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\interfacesservices\\interfacesservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\interfacesservices\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\interfacesservices\\is3service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\dl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21408903-41AF-46EF-8F1E-8A99DC6DEF6A}|DL\\DL.csproj|solutionrelative:dl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEACF50C-AF7F-4623-A4A6-13F3A956D82F}|BL\\BL.csproj|solutionrelative:bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|c:\\users\\user1\\desktop\\paintingstudio\\paintingstudio.api\\paintingstudio.api\\models\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869BE616-BCAB-4E28-9170-5335FC8BCFC3}|PaintingStudio.API\\PaintingStudio.API.csproj|solutionrelative:paintingstudio.api\\models\\instruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,11 +110,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "ImageService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Services\\ImageService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\ImageService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Services\\ImageService.cs",
+              "RelativeToolTip": "BL\\Services\\ImageService.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:47:26.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:24:07.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Item.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\Item.cs",
               "RelativeDocumentMoniker": "PaintingStudio.API\\Models\\Item.cs",
@@ -87,124 +153,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\User.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\User.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:16:33.638Z",
+              "DocumentIndex": 5,
+              "Title": "PaintingStudio.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\PaintingStudio.API.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
+              "RelativeToolTip": "PaintingStudio.API\\PaintingStudio.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-21T12:13:03.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Program.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Program.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:12:44.422Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\AuthService.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Services\\AuthService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAA2wD8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:59.781Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\ItemService.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Services\\ItemService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\ItemService.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Services\\ItemService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:35.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "S3Service.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\S3Service.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Services\\S3Service.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Services\\S3Service.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Services\\S3Service.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAuwEAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:17:20.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecast.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\WeatherForecast.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\WeatherForecast.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\WeatherForecast.cs",
-              "RelativeToolTip": "PaintingStudio.API\\WeatherForecast.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:07:15.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\appsettings.json",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\appsettings.json",
-              "RelativeToolTip": "PaintingStudio.API\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-21T12:19:47.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:18:35.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Instruction.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\Instruction.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Models\\Instruction.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\Instruction.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Models\\Instruction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:16:18.369Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\WeatherForecastController.cs",
@@ -217,55 +179,248 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Controllers\\ItemsController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAkwF8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:10.351Z",
+              "WhenOpened": "2025-06-03T10:06:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\WeatherForecast.cs",
+              "RelativeToolTip": "PaintingStudio.API\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T13:07:15.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "InstructionsController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\InstructionsController.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\InstructionsController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\InstructionsController.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Controllers\\InstructionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAABTAAAAAAAAAA==",
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:26.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-03T10:05:29.045Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "PaintingStudio.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCQAAAABAAAAAAAAAA==",
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\IUserService.cs",
+              "RelativeDocumentMoniker": "BL\\InterfacesServices\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\IUserService.cs",
+              "RelativeToolTip": "BL\\InterfacesServices\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:14:46.19Z",
+              "WhenOpened": "2025-06-03T09:42:26.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\IDataContext.cs",
+              "RelativeDocumentMoniker": "DL\\IDataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\IDataContext.cs",
+              "RelativeToolTip": "DL\\IDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:04:22.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImageDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Dtos\\ImageDto.cs",
+              "RelativeDocumentMoniker": "DL\\Dtos\\ImageDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Dtos\\ImageDto.cs",
+              "RelativeToolTip": "DL\\Dtos\\ImageDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:45:11.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Entities\\Image.cs",
+              "RelativeDocumentMoniker": "DL\\Entities\\Image.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Entities\\Image.cs",
+              "RelativeToolTip": "DL\\Entities\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:03:53.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PaintingStudio.API",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
-              "RelativeDocumentMoniker": "PaintingStudio.API\\PaintingStudio.API.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\PaintingStudio.API.csproj",
-              "RelativeToolTip": "PaintingStudio.API\\PaintingStudio.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-21T12:13:03.519Z",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "DL\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Entities\\User.cs",
+              "RelativeToolTip": "DL\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:03:27.695Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\DataContext.cs",
+              "RelativeDocumentMoniker": "DL\\DataContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\DataContext.cs",
+              "RelativeToolTip": "DL\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:04:05.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "InterfacesServices.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\InterfacesServices.cs",
+              "RelativeDocumentMoniker": "BL\\InterfacesServices\\InterfacesServices.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\InterfacesServices.cs",
+              "RelativeToolTip": "BL\\InterfacesServices\\InterfacesServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:41:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Dtos\\UserDto.cs",
+              "RelativeDocumentMoniker": "DL\\Dtos\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Dtos\\UserDto.cs",
+              "RelativeToolTip": "DL\\Dtos\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:46:31.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Program.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Program.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:12:44.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\appsettings.json",
+              "RelativeToolTip": "PaintingStudio.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-21T12:19:47.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Services\\UserService.cs",
+              "RelativeToolTip": "BL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:48:24.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IS3Service.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\IS3Service.cs",
+              "RelativeDocumentMoniker": "BL\\InterfacesServices\\IS3Service.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\InterfacesServices\\IS3Service.cs",
+              "RelativeToolTip": "BL\\InterfacesServices\\IS3Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T09:42:56.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BL.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\BL.csproj",
+              "RelativeDocumentMoniker": "BL\\BL.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\BL.csproj",
+              "RelativeToolTip": "BL\\BL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T09:02:52.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Class1.cs",
+              "RelativeDocumentMoniker": "DL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\DL\\Class1.cs",
+              "RelativeToolTip": "DL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:39:39.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Class1.cs",
+              "RelativeDocumentMoniker": "BL\\Class1.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\BL\\Class1.cs",
+              "RelativeToolTip": "BL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:39:17.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\User.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:16:33.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Instruction.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\Instruction.cs",
+              "RelativeDocumentMoniker": "PaintingStudio.API\\Models\\Instruction.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\PaintingStudio\\PaintingStudio.API\\PaintingStudio.API\\Models\\Instruction.cs",
+              "RelativeToolTip": "PaintingStudio.API\\Models\\Instruction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T12:16:18.369Z"
             }
           ]
         }

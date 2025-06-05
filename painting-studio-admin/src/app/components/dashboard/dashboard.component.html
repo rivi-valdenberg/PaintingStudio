@@ -1,1 +1,61 @@
-<p>dashboard works!</p>
+<div class="dashboard-container">
+    <h1>Dashboard</h1>
+    
+    <div class="dashboard-stats">
+      <div class="stat-card">
+        <div class="stat-value">{{ items.length }}</div>
+        <div class="stat-label">Total Items</div>
+      </div>
+      
+      <div class="stat-card">
+        <div class="stat-value">
+          {{ items.reduce((total, item) => total + item.instructions.length, 0) }}
+        </div>
+        <div class="stat-label">Total Instructions</div>
+      </div>
+    </div>
+    
+    <div *ngIf="loading" class="loading">
+      Loading dashboard data...
+    </div>
+    
+    <div *ngIf="error" class="error-message">
+      {{ error }}
+      <button (click)="loadItems()">Try Again</button>
+    </div>
+    
+    <div *ngIf="!loading && !error" class="recent-items">
+      <h2>Recent Items</h2>
+      <div class="items-table">
+        <table *ngIf="items.length > 0">
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Created</th>
+              <th>Instructions</th>
+              <th>Actions</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr *ngFor="let item of items.slice(0, 5)">
+              <td>{{ item.name }}</td>
+              <td>{{ item.createdAt | date }}</td>
+              <td>{{ item.instructions.length }}</td>
+              <td>
+                <a [routerLink]="['/items', item.id]" class="btn-view">View</a>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        
+        <div *ngIf="items.length === 0" class="no-items">
+          <p>No items found. Start by adding your first item.</p>
+          <a routerLink="/items/new" class="btn-primary">Add Item</a>
+        </div>
+      </div>
+      
+      <div class="view-all">
+        <a routerLink="/items" class="btn-link">View All Items</a>
+      </div>
+    </div>
+  </div>
